@@ -1,0 +1,477 @@
+[
+    {
+      "name": "Marlboro",
+      "origin": "United States",
+      "date_of_origin": "1955"
+    },
+    {
+      "name": "Camel",
+      "origin": "United States",
+      "date_of_origin": "1913"
+    },
+    {
+      "name": "Winston",
+      "origin": "United States",
+      "date_of_origin": "1954"
+    },
+    {
+      "name": "Lucky Strike",
+      "origin": "United States",
+      "date_of_origin": "1871"
+    },
+    {
+      "name": "Kent",
+      "origin": "United States",
+      "date_of_origin": "1952"
+    },
+    {
+      "name": "Pall Mall",
+      "origin": "United Kingdom",
+      "date_of_origin": "1899"
+    },
+    {
+      "name": "Davidoff",
+      "origin": "Switzerland",
+      "date_of_origin": "1986"
+    },
+    {
+      "name": "Rothmans",
+      "origin": "United Kingdom",
+      "date_of_origin": "1890"
+    },
+    {
+      "name": "Dunhill",
+      "origin": "United Kingdom",
+      "date_of_origin": "1907"
+    },
+    {
+      "name": "Chesterfield",
+      "origin": "United States",
+      "date_of_origin": "1912"
+    },
+    {
+      "name": "Gauloises",
+      "origin": "France",
+      "date_of_origin": "1910"
+    },
+    {
+      "name": "Sobranie",
+      "origin": "United Kingdom",
+      "date_of_origin": "1879"
+    },
+    {
+      "name": "Vogue",
+      "origin": "United States",
+      "date_of_origin": "1932"
+    },
+    {
+      "name": "Capri",
+      "origin": "United States",
+      "date_of_origin": "1987"
+    },
+    {
+      "name": "Gitanes",
+      "origin": "France",
+      "date_of_origin": "1910"
+    },
+    {
+      "name": "Parliament",
+      "origin": "United States",
+      "date_of_origin": "1931"
+    },
+    {
+      "name": "Salem",
+      "origin": "United States",
+      "date_of_origin": "1956"
+    },
+    {
+      "name": "Kool",
+      "origin": "United States",
+      "date_of_origin": "1933"
+    },
+    {
+      "name": "More",
+      "origin": "United States",
+      "date_of_origin": "1975"
+    },
+    {
+      "name": "555 State Express",
+      "origin": "United Kingdom",
+      "date_of_origin": "1893"
+    },
+    {
+      "name": "Viceroy",
+      "origin": "United States",
+      "date_of_origin": "1936"
+    },
+    {
+      "name": "Djarum",
+      "origin": "Indonesia",
+      "date_of_origin": "1951"
+    },
+    {
+      "name": "Sampoerna",
+      "origin": "Indonesia",
+      "date_of_origin": "1913"
+    },
+    {
+      "name": "Pall Mall Indonesia",
+      "origin": "Indonesia",
+      "date_of_origin": "1962"
+    },
+    {
+      "name": "Mevius (formerly Mild Seven)",
+      "origin": "Japan",
+      "date_of_origin": "1977"
+    },
+    {
+      "name": "Fortuna",
+      "origin": "Spain",
+      "date_of_origin": "1934"
+    },
+    {
+      "name": "Malboro Brazil",
+      "origin": "Brazil",
+      "date_of_origin": "1950"
+    },
+    {
+      "name": "Peter Stuyvesant",
+      "origin": "Netherlands",
+      "date_of_origin": "1958"
+    },
+    {
+      "name": "Monte Carlo",
+      "origin": "France",
+      "date_of_origin": "1990"
+    },
+    {
+      "name": "Wills Navy Cut",
+      "origin": "United Kingdom",
+      "date_of_origin": "1894"
+    },
+    {
+      "name": "Ducados",
+      "origin": "Spain",
+      "date_of_origin": "1904"
+    },
+    {
+      "name": "Saratoga",
+      "origin": "United States",
+      "date_of_origin": "1876"
+    },
+    {
+      "name": "Player's Navy Cut",
+      "origin": "United Kingdom",
+      "date_of_origin": "1937"
+    },
+    {
+      "name": "Doral",
+      "origin": "United States",
+      "date_of_origin": "1969"
+    },
+    {
+      "name": "Glamour",
+      "origin": "Germany",
+      "date_of_origin": "2005"
+    },
+    {
+      "name": "Benson & Hedges",
+      "origin": "United Kingdom",
+      "date_of_origin": "1873"
+    },
+    {
+      "name": "Sovereign",
+      "origin": "United Kingdom",
+      "date_of_origin": "1974"
+    },
+    {
+      "name": "Regal",
+      "origin": "United Kingdom",
+      "date_of_origin": "1987"
+    },
+    {
+      "name": "Misty",
+      "origin": "United States",
+      "date_of_origin": "1990"
+    },
+    {
+      "name": "Wings",
+      "origin": "Indonesia",
+      "date_of_origin": "1932"
+    },
+    {
+      "name": "West",
+      "origin": "Germany",
+      "date_of_origin": "1981"
+    },
+    {
+      "name": "Craven A",
+      "origin": "Canada",
+      "date_of_origin": "1906"
+    },
+    {
+      "name": "R1",
+      "origin": "Germany",
+      "date_of_origin": "1986"
+    },
+    {
+      "name": "Kentucky's Best",
+      "origin": "United States",
+      "date_of_origin": "1997"
+    },
+    {
+      "name": "Raquel",
+      "origin": "United States",
+      "date_of_origin": "1999"
+    },
+    {
+      "name": "Basic",
+      "origin": "United States",
+      "date_of_origin": "1998"
+    },
+    {
+      "name": "Golden Virginia",
+      "origin": "United Kingdom",
+      "date_of_origin": "1877"
+    },
+    {
+      "name": "Craven A Filter",
+      "origin": "United Kingdom",
+      "date_of_origin": "1951"
+    },
+    {
+      "name": "Export 'A'",
+      "origin": "Canada",
+      "date_of_origin": "1928"
+    },
+    {
+      "name": "Winfield",
+      "origin": "Australia",
+      "date_of_origin": "1970"
+    },
+    {
+      "name": "Peter Stuyvesant Red",
+      "origin": "Netherlands",
+      "date_of_origin": "1950"
+    },
+    {
+      "name": "Dunhill International",
+      "origin": "United Kingdom",
+      "date_of_origin": "1907"
+    },
+    {
+      "name": "Marlboro Gold",
+      "origin": "United States",
+      "date_of_origin": "1924"
+    },
+    {
+      "name": "Rothmans Blue",
+      "origin": "United Kingdom",
+      "date_of_origin": "1890"
+    },
+    {
+      "name": "Mevius Option Blue",
+      "origin": "Japan",
+      "date_of_origin": "1979"
+    },
+    {
+      "name": "Parliament Aqua Blue",
+      "origin": "United States",
+      "date_of_origin": "1931"
+    },
+    {
+      "name": "Salem Menthol",
+      "origin": "United States",
+      "date_of_origin": "1956"
+    },
+    {
+      "name": "Kool Milds",
+      "origin": "United States",
+      "date_of_origin": "1933"
+    },
+    {
+      "name": "Gauloises Blondes",
+      "origin": "France",
+      "date_of_origin": "1910"
+    },
+    {
+      "name": "555 Gold",
+      "origin": "United Kingdom",
+      "date_of_origin": "1893"
+    },
+    {
+      "name": "Davidoff Classic",
+      "origin": "Switzerland",
+      "date_of_origin": "1986"
+    },
+    {
+      "name": "Lucky Strike Blue",
+      "origin": "United States",
+      "date_of_origin": "1916"
+    },
+    {
+      "name": "Winston Blue",
+      "origin": "United States",
+      "date_of_origin": "1954"
+    },
+    {
+      "name": "Camel Filters",
+      "origin": "United States",
+      "date_of_origin": "1913"
+    },
+    {
+      "name": "Marlboro Red",
+      "origin": "United States",
+      "date_of_origin": "1955"
+    },
+    {
+      "name": "Kent Gold",
+      "origin": "United States",
+      "date_of_origin": "1952"
+    },
+    {
+      "name": "Viceroy Red",
+      "origin": "United States",
+      "date_of_origin": "1936"
+    },
+    {
+      "name": "Chesterfield Red",
+      "origin": "United States",
+      "date_of_origin": "1912"
+    },
+    {
+      "name": "Sobranie Black Russian",
+      "origin": "United Kingdom",
+      "date_of_origin": "1879"
+    },
+    {
+      "name": "Ducados Negros",
+      "origin": "Spain",
+      "date_of_origin": "1932"
+    },
+    {
+      "name": "Monte Carlo Red",
+      "origin": "France",
+      "date_of_origin": "1990"
+    },
+    {
+      "name": "West Red",
+      "origin": "Germany",
+      "date_of_origin": "1981"
+    },
+    {
+      "name": "Benson & Hedges Gold",
+      "origin": "United Kingdom",
+      "date_of_origin": "1873"
+    },
+    {
+      "name": "Vogue Lilas",
+      "origin": "United States",
+      "date_of_origin": "1932"
+    },
+    {
+      "name": "Djarum Black",
+      "origin": "Indonesia",
+      "date_of_origin": "1951"
+    },
+    {
+      "name": "Golden Virginia Yellow",
+      "origin": "United Kingdom",
+      "date_of_origin": "1877"
+    },
+    {
+      "name": "Malboro Ice Blast",
+      "origin": "United States",
+      "date_of_origin": "1955"
+    },
+    {
+      "name": "R1 Slim Line",
+      "origin": "Germany",
+      "date_of_origin": "1986"
+    },
+    {
+      "name": "Regal King Size",
+      "origin": "United Kingdom",
+      "date_of_origin": "1987"
+    },
+    {
+      "name": "Sovereign Blue",
+      "origin": "United Kingdom",
+      "date_of_origin": "1974"
+    },
+    {
+      "name": "Craven A King Size",
+      "origin": "United Kingdom",
+      "date_of_origin": "1951"
+    },
+    {
+      "name": "Export 'A' King Size",
+      "origin": "Canada",
+      "date_of_origin": "1928"
+    },
+    {
+      "name": "Winfield Blue",
+      "origin": "Australia",
+      "date_of_origin": "1970"
+    },
+    {
+      "name": "Peter Stuyvesant Red King Size",
+      "origin": "Netherlands",
+      "date_of_origin": "1950"
+    },
+    {
+      "name": "Dunhill International King Size",
+      "origin": "United Kingdom",
+      "date_of_origin": "1907"
+    },
+    {
+      "name": "Marlboro Gold King Size",
+      "origin": "United States",
+      "date_of_origin": "1924"
+    },
+    {
+      "name": "Rothmans Blue King Size",
+      "origin": "United Kingdom",
+      "date_of_origin": "1890"
+    },
+    {
+      "name": "Mevius Option Blue King Size",
+      "origin": "Japan",
+      "date_of_origin": "1979"
+    },
+    {
+      "name": "Parliament Aqua Blue King Size",
+      "origin": "United States",
+      "date_of_origin": "1931"
+    },
+    {
+      "name": "Salem Menthol King Size",
+      "origin": "United States",
+      "date_of_origin": "1956"
+    },
+    {
+      "name": "Kool Milds King Size",
+      "origin": "United States",
+      "date_of_origin": "1933"
+    },
+    {
+      "name": "Gauloises Blondes King Size",
+      "origin": "France",
+      "date_of_origin": "1910"
+    },
+    {
+      "name": "555 Gold King Size",
+      "origin": "United Kingdom",
+      "date_of_origin": "1893"
+    },
+    {
+      "name": "Davidoff Classic King Size",
+      "origin": "Switzerland",
+      "date_of_origin": "1986"
+    },
+    {
+      "name": "Lucky Strike Blue King Size",
+      "origin": "United States",
+      "date_of_origin": "1916"
+    }
+  ]
